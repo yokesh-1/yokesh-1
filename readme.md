@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://tenor.com/b1Ja62BwJTW.gif" width="250" alt="Productive Pat Thinking GIF">
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Yokesh</h1>
+<h2 align="center" >🤖 AI Developer | 💻 Full Stack Developer | 🚀 Generative AI Enthusiast</h2>
 <h3 align="center">I'm a Full Stack AI Developer passionate about building intelligent, scalable, and user-friendly applications by combining full-stack development with artificial intelligence.</h3>
 
 
